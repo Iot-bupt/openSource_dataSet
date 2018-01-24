@@ -1,0 +1,1 @@
+After obtaining the geo location configurations of device, make a statistics of them and analyze the trace of the device.

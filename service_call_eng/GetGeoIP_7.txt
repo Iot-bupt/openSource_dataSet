@@ -1,0 +1,1 @@
+According to GetGeoIP method, the currency code of the country which owns the IP address will be recommended. 

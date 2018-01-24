@@ -1,0 +1,1 @@
+According to GetGeoIPContext method, the currency information of the country which owns the IP address will be recommended. 

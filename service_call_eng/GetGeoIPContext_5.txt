@@ -1,0 +1,1 @@
+According to GetGeoIPContext method, the Greenwich time of the country which owns the IP address will be recommended. 

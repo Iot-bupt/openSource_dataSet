@@ -1,0 +1,1 @@
+For subscribed article, save the reading status
