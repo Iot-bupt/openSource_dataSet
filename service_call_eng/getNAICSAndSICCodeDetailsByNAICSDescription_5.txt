@@ -1,0 +1,1 @@
+NAICS Industry Description is known. Obtain the NAICS code, NAICS Description from that.
