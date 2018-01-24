@@ -1,0 +1,1 @@
+该操作将在设备上设置NTP设置。 如果设备支持NTP，则可以通过SetNTP命令设置NTP服务器设置。 设备应接受根据RFC 1123第2.1节或RFC 952形成的字符串，其他字符串应视为无效字符串。 对NTP服务器列表的更改不会影响时钟模式DateTimeType。 使用SetSystemDateAndTime来激活NTP操作。
