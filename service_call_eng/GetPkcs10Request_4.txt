@@ -1,0 +1,1 @@
+Request the device's PKCS #10 certificate signature to verify the legitimacy of the device.

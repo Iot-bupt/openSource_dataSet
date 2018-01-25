@@ -1,0 +1,1 @@
+Request the PKCS #10 certificate signature from the device.

@@ -1,0 +1,1 @@
+Get the company's stock quote.

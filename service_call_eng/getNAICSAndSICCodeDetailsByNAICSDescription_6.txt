@@ -1,0 +1,1 @@
+NAICS Industry Description is known. Obtain the SIC code ,SIC Description from that.

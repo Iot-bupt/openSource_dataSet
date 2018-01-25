@@ -1,0 +1,1 @@
+ Get the scope parameters of the device.

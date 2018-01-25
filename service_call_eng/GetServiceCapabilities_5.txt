@@ -1,0 +1,1 @@
+Query the capabilities of the device service.

@@ -1,0 +1,1 @@
+Check the list of all available relay outputs and their settings.

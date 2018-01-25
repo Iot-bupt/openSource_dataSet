@@ -1,0 +1,1 @@
+I want to know the list of all available relay outputs and their settings.
